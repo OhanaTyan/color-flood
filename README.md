@@ -17,7 +17,7 @@
 ## 如何玩
 
 ```bash
-git clone https://github.com/zhengxiaowai/color-flood.git
+git clone https://github.com/OhanaTyan/color-flood.git
 cd color-flood
 python color-flood.py
 ```
